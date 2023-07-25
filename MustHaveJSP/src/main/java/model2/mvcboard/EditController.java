@@ -63,7 +63,7 @@ public class EditController extends HttpServlet {
 		
 		MVCBoardDTO dto = new MVCBoardDTO();
 		dto.setIdx(idx);
-		dto.setName(name);D
+		dto.setName(name);
 		dto.setTitle(title);
 		dto.setContent(content);
 		dto.setPass(pass);
